@@ -4,19 +4,19 @@
 #'
 #' @format A tibble with 235 rows and 14 variables:
 #' \describe{
-#'   \item{dbl marketing_expenses}{...}
-#'   \item{dbl customers_reached}{...} 
-#'   \item{dbl negative_reactions}{...}
-#'   \item{dbl price}{...}
-#'   \item{fct price_segment}{...}
-#'   \item{dbl number_of_sizes}{...}
-#'   \item{fctl target_customer}{...}
-#'   \item{dbl rating_testers}{...}
-#'   \item{dbl rating_customers}{...}
-#'   \item{fct color_most_sold}{...}
-#'   \item{dbl return_rate}{...}
-#'   \item{dbl sales_volume}{...}
-#'   \item{dbl rank_rating_customers}{...}
-#'   \item{dbl rank_price_segment}{...}
+#'   \item{marketing_expenses \[dbl\]}{...}
+#'   \item{customers_reached \[dbl\]}{...} 
+#'   \item{negative_reactions \[dbl\]}{...}
+#'   \item{price \[dbl\]}{...}
+#'   \item{price_segment \[fct\]}{...}
+#'   \item{number_of_sizes \[dbl\]}{...}
+#'   \item{target_customer \[fct\]}{...}
+#'   \item{rating_testers \[dbl\]}{...}
+#'   \item{rating_customers \[dbl\]}{...}
+#'   \item{color_most_sold \[fct\]}{...}
+#'   \item{return_rate \[dbl\]}{...}
+#'   \item{sales_volume \[dbl\]}{...}
+#'   \item{rank_rating_customers \[dbl\]}{...}
+#'   \item{rank_price_segment \[dbl\]}{...}
 #' }
 "marketing_expenses"

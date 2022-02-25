@@ -1,101 +1,1201 @@
-"a","b"
-60,NA
-17,NA
-704,NA
-361,NA
-750,NA
-488,NA
-494,NA
-59,NA
-154,NA
-593,NA
-753,NA
-32,NA
-218,NA
-327,NA
-325,NA
-625,NA
-669,NA
-344,NA
-896,NA
-277,NA
-560,NA
-341,NA
-421,NA
-395,NA
-990,NA
-186,NA
-480,NA
-727,NA
-523,NA
-87,NA
-484,NA
-150,NA
-92,NA
-498,NA
-785,NA
-335,NA
-546,NA
-97,NA
-841,NA
-291,NA
-4,NA
-246,NA
-118,NA
-553,NA
-377,NA
-331,NA
-467,NA
-297,NA
-938,NA
-272,NA
-620,NA
-525,NA
-408,NA
-854,NA
-380,NA
-461,NA
-943,NA
-759,NA
-772,NA
-712,NA
-894,NA
-906,NA
-383,NA
-37,NA
-786,NA
-78,NA
-102,NA
-761,NA
-969,NA
-861,NA
-915,NA
-767,NA
-120,NA
-211,NA
-434,NA
-806,NA
-168,NA
-135,NA
-351,NA
-748,NA
-548,NA
-780,NA
-985,NA
-138,NA
-744,NA
-700,NA
-650,NA
-330,NA
-605,NA
-955,NA
-242,NA
-884,NA
-317,NA
-637,NA
-54,NA
-194,NA
-161,NA
-981,NA
-147,NA
-557,NA
+position,working_hours,salary,hourly_wage,department,sick_days
+Trainee,119,950,7.98,Marketing & Sales,17
+Trainee,129,950,7.36,Human Resources,10
+Trainee,145,950,6.55,Marketing & Sales,1
+Trainee,109,950,8.72,Human Resources,11
+Trainee,150,950,6.33,Human Resources,19
+Trainee,111,950,8.56,Human Resources,13
+Trainee,160,950,5.94,Production,23
+Trainee,135,950,7.04,Finance & Risk,19
+Trainee,109,950,8.72,Human Resources,16
+Trainee,132,950,7.2,Production,0
+Trainee,160,950,5.94,Finance & Risk,22
+Trainee,151,950,6.29,Finance & Risk,19
+Trainee,129,950,7.36,Finance & Risk,18
+Trainee,160,950,5.94,Finance & Risk,20
+Trainee,150,950,6.33,Finance & Risk,19
+Trainee,133,950,7.14,Production,15
+Trainee,122,950,7.79,Human Resources,11
+Trainee,160,950,5.94,Marketing & Sales,14
+Trainee,158,950,6.01,Finance & Risk,16
+Trainee,91,950,10.44,Finance & Risk,21
+Trainee,160,950,5.94,Finance & Risk,16
+Trainee,160,950,5.94,Finance & Risk,15
+Trainee,151,950,6.29,Human Resources,16
+Trainee,92,950,10.33,Finance & Risk,19
+Trainee,133,950,7.14,Human Resources,9
+Trainee,130,950,7.31,Human Resources,16
+Trainee,146,950,6.51,Human Resources,18
+Trainee,69,950,13.77,Finance & Risk,21
+Trainee,160,950,5.94,Human Resources,17
+Junior,90,2000,22.22,Marketing & Sales,19
+Junior,131,1600,12.21,Human Resources,10
+Junior,105,1600,15.24,Human Resources,18
+Junior,124,1650,13.31,Finance & Risk,18
+Junior,112,1750,15.62,Production,3
+Junior,146,2050,14.04,Marketing & Sales,21
+Junior,135,1850,13.7,Production,10
+Junior,137,2200,16.06,Human Resources,23
+Junior,160,1750,10.94,Finance & Risk,20
+Junior,160,2000,12.5,Marketing & Sales,17
+Junior,160,1550,9.69,Finance & Risk,16
+Junior,155,1700,10.97,Human Resources,16
+Junior,132,1550,11.74,Production,33
+Junior,112,2150,19.2,Finance & Risk,16
+Junior,102,1850,18.14,Human Resources,16
+Junior,160,1650,10.31,Human Resources,22
+Junior,143,1650,11.54,Human Resources,9
+Junior,160,1450,9.06,Marketing & Sales,13
+Junior,160,1950,12.19,Marketing & Sales,9
+Junior,159,1450,9.12,Finance & Risk,15
+Junior,135,1950,14.44,Human Resources,22
+Junior,160,1800,11.25,Production,33
+Junior,160,1800,11.25,Marketing & Sales,27
+Junior,73,2000,27.4,Marketing & Sales,10
+Junior,138,2100,15.22,Marketing & Sales,17
+Junior,135,2100,15.56,Production,3
+Junior,154,1900,12.34,Human Resources,24
+Junior,160,1500,9.38,Production,40
+Junior,160,2200,13.75,Human Resources,20
+Junior,160,1700,10.62,Marketing & Sales,10
+Junior,152,1900,12.5,Finance & Risk,20
+Junior,160,1650,10.31,Production,18
+Junior,160,2050,12.81,Human Resources,17
+Junior,98,2150,21.94,Finance & Risk,17
+Junior,112,1850,16.52,Marketing & Sales,28
+Junior,140,1900,13.57,Finance & Risk,19
+Junior,160,1900,11.88,Marketing & Sales,21
+Junior,121,1450,11.98,Marketing & Sales,7
+Junior,157,1900,12.1,Human Resources,11
+Junior,97,1550,15.98,Production,30
+Junior,149,2050,13.76,Marketing & Sales,13
+Junior,131,2100,16.03,Human Resources,21
+Junior,160,2200,13.75,Finance & Risk,22
+Junior,160,1500,9.38,Human Resources,17
+Junior,145,2100,14.48,Marketing & Sales,22
+Junior,150,1850,12.33,Human Resources,18
+Junior,138,2450,17.75,Human Resources,20
+Junior,160,1700,10.62,Finance & Risk,22
+Junior,146,1650,11.3,Human Resources,24
+Junior,122,1950,15.98,Marketing & Sales,12
+Junior,150,1950,13,Production,0
+Junior,117,2100,17.95,Human Resources,15
+Junior,110,1750,15.91,Human Resources,21
+Junior,147,2500,17.01,Finance & Risk,21
+Junior,160,1600,10,Marketing & Sales,31
+Junior,154,2050,13.31,Human Resources,17
+Junior,129,1550,12.02,Production,14
+Junior,160,1750,10.94,Production,15
+Junior,113,2200,19.47,Marketing & Sales,22
+Junior,139,1450,10.43,Human Resources,22
+Junior,126,1600,12.7,Production,25
+Junior,155,1850,11.94,Production,28
+Junior,138,1750,12.68,Finance & Risk,20
+Junior,140,1800,12.86,Production,26
+Junior,156,2300,14.74,Finance & Risk,14
+Junior,101,1800,17.82,Marketing & Sales,14
+Junior,134,1850,13.81,Human Resources,23
+Junior,160,2250,14.06,Production,30
+Junior,116,1950,16.81,Finance & Risk,18
+Junior,160,2050,12.81,Marketing & Sales,36
+Junior,107,2050,19.16,Human Resources,17
+Junior,160,1750,10.94,Finance & Risk,16
+Junior,150,1950,13,Production,0
+Junior,154,1800,11.69,Marketing & Sales,14
+Junior,140,1900,13.57,Production,29
+Junior,160,1950,12.19,Finance & Risk,15
+Junior,160,1950,12.19,Marketing & Sales,15
+Junior,127,1800,14.17,Production,17
+Junior,127,1950,15.35,Production,13
+Junior,160,1600,10,Finance & Risk,19
+Junior,133,2000,15.04,Production,33
+Junior,160,2150,13.44,Production,31
+Junior,149,1600,10.74,Human Resources,18
+Junior,150,1850,12.33,Human Resources,25
+Junior,106,1400,13.21,Human Resources,18
+Junior,160,1600,10,Human Resources,10
+Junior,160,2100,13.12,Production,11
+Junior,86,1650,19.19,Production,42
+Junior,160,1850,11.56,Production,52
+Junior,123,1750,14.23,Human Resources,22
+Junior,113,1950,17.26,Finance & Risk,19
+Junior,116,1800,15.52,Human Resources,17
+Junior,98,1650,16.84,Marketing & Sales,9
+Junior,160,2100,13.12,Marketing & Sales,17
+Junior,96,1550,16.15,Human Resources,19
+Junior,106,1950,18.4,Marketing & Sales,11
+Junior,108,1800,16.67,Production,6
+Junior,157,2100,13.38,Marketing & Sales,9
+Junior,126,1950,15.48,Marketing & Sales,17
+Junior,140,2000,14.29,Marketing & Sales,20
+Junior,120,2250,18.75,Production,14
+Junior,155,2100,13.55,Human Resources,17
+Junior,122,2100,17.21,Production,17
+Junior,160,2100,13.12,Finance & Risk,17
+Junior,141,2250,15.96,Production,48
+Junior,121,1800,14.88,Human Resources,25
+Junior,160,1600,10,Human Resources,17
+Junior,141,1850,13.12,Finance & Risk,17
+Junior,108,1450,13.43,Production,5
+Junior,109,1500,13.76,Production,47
+Junior,156,1600,10.26,Marketing & Sales,21
+Junior,102,1950,19.12,Marketing & Sales,10
+Junior,160,1750,10.94,Production,5
+Junior,111,1900,17.12,Finance & Risk,17
+Junior,92,1700,18.48,Production,9
+Junior,90,2000,22.22,Human Resources,12
+Junior,108,1550,14.35,Production,13
+Junior,158,2150,13.61,Human Resources,19
+Junior,78,1800,23.08,Production,3
+Junior,124,1700,13.71,Human Resources,16
+Junior,138,1900,13.77,Finance & Risk,15
+Junior,95,1900,20,Finance & Risk,18
+Junior,146,1800,12.33,Finance & Risk,17
+Junior,56,1950,34.82,Marketing & Sales,21
+Junior,86,1250,14.53,Finance & Risk,18
+Junior,160,1950,12.19,Production,15
+Junior,160,1900,11.88,Marketing & Sales,24
+Junior,160,1700,10.62,Production,27
+Junior,160,1750,10.94,Finance & Risk,17
+Junior,122,1800,14.75,Finance & Risk,16
+Junior,160,1900,11.88,Production,29
+Junior,103,1900,18.45,Finance & Risk,18
+Junior,160,2600,16.25,Human Resources,13
+Junior,86,2400,27.91,Production,31
+Junior,157,2000,12.74,Production,11
+Junior,71,1700,23.94,Marketing & Sales,17
+Junior,87,1700,19.54,Finance & Risk,19
+Junior,102,2200,21.57,Human Resources,20
+Junior,116,1700,14.66,Finance & Risk,19
+Junior,146,2000,13.7,Production,32
+Junior,134,1800,13.43,Finance & Risk,19
+Junior,160,1700,10.62,Finance & Risk,19
+Junior,160,1850,11.56,Marketing & Sales,2
+Junior,160,1750,10.94,Production,23
+Junior,127,1300,10.24,Production,10
+Junior,140,1500,10.71,Human Resources,17
+Junior,135,1700,12.59,Production,13
+Junior,160,1750,10.94,Human Resources,22
+Junior,138,1250,9.06,Production,0
+Junior,116,1950,16.81,Human Resources,16
+Junior,158,2200,13.92,Finance & Risk,19
+Junior,70,1800,25.71,Production,13
+Junior,143,2000,13.99,Finance & Risk,20
+Junior,118,1750,14.83,Finance & Risk,15
+Junior,129,1900,14.73,Marketing & Sales,14
+Junior,159,1650,10.38,Marketing & Sales,14
+Junior,147,1800,12.24,Production,30
+Junior,160,1300,8.12,Human Resources,25
+Junior,141,1800,12.77,Finance & Risk,20
+Junior,113,2000,17.7,Human Resources,19
+Junior,107,2050,19.16,Production,21
+Professional,138,2600,18.84,Human Resources,26
+Professional,160,3050,19.06,Production,29
+Professional,86,2800,32.56,Human Resources,25
+Professional,145,2700,18.62,Marketing & Sales,10
+Professional,123,2400,19.51,Production,32
+Professional,117,2750,23.5,Human Resources,18
+Professional,158,2200,13.92,Production,7
+Professional,132,2000,15.15,Finance & Risk,17
+Professional,160,2550,15.94,Marketing & Sales,17
+Professional,115,1950,16.96,Finance & Risk,17
+Professional,84,2800,33.33,Marketing & Sales,20
+Professional,101,2900,28.71,Marketing & Sales,9
+Professional,101,2400,23.76,Production,19
+Professional,160,2500,15.62,Human Resources,19
+Professional,144,2150,14.93,Human Resources,16
+Professional,159,2000,12.58,Finance & Risk,19
+Professional,148,2200,14.86,Production,29
+Professional,160,2600,16.25,Finance & Risk,19
+Professional,160,2550,15.94,Production,26
+Professional,160,3050,19.06,Marketing & Sales,15
+Professional,126,2350,18.65,Production,1
+Professional,112,2950,26.34,Finance & Risk,17
+Professional,157,2050,13.06,Production,40
+Professional,160,2200,13.75,Human Resources,23
+Professional,109,2050,18.81,Production,23
+Professional,160,1500,9.38,Marketing & Sales,13
+Professional,118,2650,22.46,Production,28
+Professional,132,2050,15.53,Marketing & Sales,3
+Professional,124,2250,18.15,Human Resources,22
+Professional,127,2000,15.75,Finance & Risk,18
+Professional,55,2350,42.73,Marketing & Sales,18
+Professional,148,2400,16.22,Production,14
+Professional,110,2250,20.45,Marketing & Sales,19
+Professional,120,2000,16.67,Finance & Risk,18
+Professional,105,2350,22.38,Production,12
+Professional,136,2250,16.54,Marketing & Sales,15
+Professional,131,2750,20.99,Marketing & Sales,5
+Professional,160,1800,11.25,Finance & Risk,21
+Professional,160,2200,13.75,Production,37
+Professional,156,2050,13.14,Human Resources,27
+Professional,74,2400,32.43,Finance & Risk,15
+Professional,150,1900,12.67,Production,15
+Professional,78,2350,30.13,Production,3
+Professional,160,2400,15,Marketing & Sales,32
+Professional,143,2150,15.03,Finance & Risk,15
+Professional,101,1600,15.84,Marketing & Sales,20
+Professional,140,1900,13.57,Production,31
+Professional,146,2800,19.18,Finance & Risk,18
+Professional,160,2700,16.88,Finance & Risk,19
+Professional,160,2400,15,Finance & Risk,17
+Professional,40,2450,61.25,Human Resources,13
+Professional,160,2200,13.75,Finance & Risk,16
+Professional,80,3500,43.75,Production,17
+Professional,160,3350,20.94,Marketing & Sales,21
+Professional,90,1850,20.56,Production,7
+Professional,133,2450,18.42,Human Resources,23
+Professional,146,2150,14.73,Marketing & Sales,9
+Professional,160,2350,14.69,Finance & Risk,18
+Professional,121,2600,21.49,Marketing & Sales,11
+Professional,160,1800,11.25,Human Resources,11
+Professional,94,3000,31.91,Production,21
+Professional,127,1800,14.17,Production,20
+Professional,118,2100,17.8,Finance & Risk,14
+Professional,110,2300,20.91,Production,24
+Professional,156,2350,15.06,Human Resources,26
+Professional,156,3050,19.55,Finance & Risk,15
+Professional,67,2300,34.33,Production,38
+Professional,109,2050,18.81,Marketing & Sales,8
+Professional,86,2550,29.65,Human Resources,17
+Professional,160,2400,15,Marketing & Sales,20
+Professional,160,2300,14.38,Finance & Risk,18
+Professional,156,1950,12.5,Marketing & Sales,9
+Professional,160,3000,18.75,Production,38
+Professional,141,2000,14.18,Finance & Risk,19
+Professional,150,2800,18.67,Marketing & Sales,13
+Professional,105,2350,22.38,Production,7
+Professional,160,1400,8.75,Marketing & Sales,18
+Professional,133,2900,21.8,Marketing & Sales,21
+Professional,121,2400,19.83,Finance & Risk,19
+Professional,125,1550,12.4,Production,19
+Professional,160,2800,17.5,Production,30
+Professional,106,2300,21.7,Human Resources,21
+Professional,155,2550,16.45,Finance & Risk,17
+Professional,134,1900,14.18,Production,17
+Professional,160,1400,8.75,Human Resources,12
+Professional,160,1600,10,Marketing & Sales,15
+Professional,106,1750,16.51,Production,16
+Professional,63,2400,38.1,Finance & Risk,19
+Professional,160,2700,16.88,Production,44
+Professional,160,1700,10.62,Production,7
+Professional,119,2500,21.01,Human Resources,12
+Professional,160,2900,18.12,Production,0
+Professional,160,2100,13.12,Finance & Risk,19
+Professional,133,2500,18.8,Finance & Risk,18
+Professional,160,1600,10,Human Resources,18
+Professional,140,2150,15.36,Production,7
+Professional,160,3550,22.19,Marketing & Sales,23
+Professional,149,1700,11.41,Human Resources,18
+Professional,154,2400,15.58,Finance & Risk,19
+Professional,135,2050,15.19,Human Resources,12
+Professional,150,2750,18.33,Human Resources,21
+Professional,160,3100,19.38,Production,15
+Professional,160,2000,12.5,Finance & Risk,18
+Professional,155,2550,16.45,Finance & Risk,19
+Professional,148,2400,16.22,Marketing & Sales,6
+Professional,140,1550,11.07,Human Resources,13
+Professional,93,2150,23.12,Production,37
+Professional,112,1600,14.29,Human Resources,20
+Professional,160,2350,14.69,Marketing & Sales,28
+Professional,147,2000,13.61,Marketing & Sales,0
+Professional,124,2350,18.95,Marketing & Sales,18
+Professional,160,2100,13.12,Finance & Risk,20
+Professional,108,2100,19.44,Marketing & Sales,17
+Professional,147,2200,14.97,Marketing & Sales,20
+Professional,113,1450,12.83,Human Resources,17
+Professional,120,2350,19.58,Finance & Risk,19
+Professional,156,2100,13.46,Production,27
+Professional,121,2000,16.53,Marketing & Sales,16
+Professional,137,3300,24.09,Finance & Risk,20
+Professional,150,2000,13.33,Production,2
+Professional,104,2150,20.67,Human Resources,13
+Professional,160,2800,17.5,Human Resources,14
+Professional,160,2000,12.5,Marketing & Sales,13
+Professional,150,1550,10.33,Human Resources,26
+Professional,83,2600,31.33,Marketing & Sales,30
+Professional,160,2850,17.81,Human Resources,18
+Professional,160,1550,9.69,Production,34
+Professional,156,2850,18.27,Finance & Risk,16
+Professional,155,3050,19.68,Finance & Risk,17
+Professional,123,2750,22.36,Finance & Risk,22
+Professional,87,2750,31.61,Marketing & Sales,8
+Professional,147,2200,14.97,Finance & Risk,21
+Professional,160,2700,16.88,Human Resources,14
+Professional,146,2500,17.12,Finance & Risk,19
+Professional,103,2200,21.36,Finance & Risk,17
+Professional,160,1900,11.88,Marketing & Sales,24
+Professional,128,3000,23.44,Marketing & Sales,12
+Professional,158,2450,15.51,Finance & Risk,19
+Professional,160,3100,19.38,Production,8
+Professional,129,2000,15.5,Human Resources,11
+Professional,148,2200,14.86,Finance & Risk,20
+Professional,128,2150,16.8,Human Resources,25
+Professional,141,1950,13.83,Finance & Risk,14
+Professional,160,2950,18.44,Finance & Risk,20
+Professional,160,2000,12.5,Production,19
+Professional,126,2050,16.27,Marketing & Sales,14
+Professional,160,2650,16.56,Human Resources,29
+Professional,160,3250,20.31,Production,23
+Professional,84,2150,25.6,Production,21
+Professional,138,2200,15.94,Human Resources,19
+Professional,160,2450,15.31,Marketing & Sales,1
+Professional,40,3000,75,Production,28
+Professional,123,1700,13.82,Production,11
+Professional,160,2450,15.31,Marketing & Sales,21
+Professional,155,2700,17.42,Production,6
+Professional,111,2350,21.17,Finance & Risk,16
+Professional,157,1650,10.51,Marketing & Sales,6
+Professional,116,2450,21.12,Finance & Risk,20
+Professional,106,2600,24.53,Finance & Risk,21
+Professional,70,2000,28.57,Production,4
+Professional,160,1850,11.56,Finance & Risk,16
+Professional,148,2100,14.19,Human Resources,27
+Professional,149,2300,15.44,Production,36
+Professional,160,2700,16.88,Production,14
+Professional,102,2550,25,Production,20
+Professional,123,2200,17.89,Production,19
+Professional,114,1950,17.11,Marketing & Sales,13
+Professional,136,2300,16.91,Marketing & Sales,16
+Professional,160,2500,15.62,Marketing & Sales,15
+Professional,160,1950,12.19,Human Resources,23
+Professional,111,2300,20.72,Marketing & Sales,18
+Professional,160,2150,13.44,Finance & Risk,20
+Professional,105,2350,22.38,Finance & Risk,21
+Professional,109,2250,20.64,Production,30
+Professional,160,2400,15,Marketing & Sales,25
+Professional,160,1850,11.56,Production,24
+Professional,130,2400,18.46,Human Resources,19
+Professional,80,1700,21.25,Human Resources,17
+Professional,158,2250,14.24,Production,5
+Professional,152,2700,17.76,Marketing & Sales,0
+Professional,160,1850,11.56,Production,24
+Professional,90,2800,31.11,Finance & Risk,17
+Professional,160,2050,12.81,Marketing & Sales,6
+Professional,149,2750,18.46,Marketing & Sales,6
+Professional,87,1950,22.41,Production,16
+Professional,140,2200,15.71,Finance & Risk,19
+Professional,144,1650,11.46,Marketing & Sales,16
+Professional,160,1900,11.88,Human Resources,20
+Professional,88,2550,28.98,Marketing & Sales,18
+Professional,160,2700,16.88,Finance & Risk,17
+Professional,140,2150,15.36,Human Resources,23
+Professional,150,2150,14.33,Human Resources,12
+Professional,116,2200,18.97,Finance & Risk,19
+Professional,128,2400,18.75,Finance & Risk,22
+Professional,132,2250,17.05,Marketing & Sales,24
+Professional,118,2850,24.15,Finance & Risk,20
+Professional,135,1650,12.22,Human Resources,10
+Professional,133,2100,15.79,Production,22
+Professional,121,2200,18.18,Human Resources,21
+Professional,144,2200,15.28,Marketing & Sales,30
+Professional,160,2150,13.44,Production,14
+Professional,135,1850,13.7,Human Resources,23
+Professional,83,2600,31.33,Production,24
+Professional,125,1700,13.6,Marketing & Sales,10
+Professional,160,2500,15.62,Production,16
+Professional,97,2000,20.62,Human Resources,20
+Professional,110,2000,18.18,Finance & Risk,18
+Professional,83,2250,27.11,Finance & Risk,19
+Professional,160,2400,15,Finance & Risk,18
+Professional,130,2000,15.38,Production,40
+Professional,160,1900,11.88,Marketing & Sales,30
+Professional,160,2150,13.44,Marketing & Sales,22
+Professional,147,2350,15.99,Human Resources,18
+Professional,132,2200,16.67,Human Resources,13
+Professional,134,1750,13.06,Marketing & Sales,20
+Professional,157,2600,16.56,Marketing & Sales,25
+Professional,160,2550,15.94,Marketing & Sales,0
+Professional,137,1800,13.14,Finance & Risk,16
+Professional,160,2850,17.81,Finance & Risk,15
+Professional,160,1800,11.25,Marketing & Sales,16
+Professional,138,2100,15.22,Human Resources,19
+Professional,90,2600,28.89,Marketing & Sales,14
+Professional,130,3100,23.85,Marketing & Sales,22
+Professional,94,2500,26.6,Production,15
+Professional,160,2450,15.31,Production,23
+Professional,159,2300,14.47,Production,18
+Professional,149,2500,16.78,Marketing & Sales,31
+Professional,150,2150,14.33,Marketing & Sales,21
+Professional,141,2700,19.15,Production,12
+Professional,128,2650,20.7,Production,15
+Professional,112,2350,20.98,Marketing & Sales,32
+Professional,66,2000,30.3,Human Resources,14
+Professional,141,2500,17.73,Finance & Risk,17
+Professional,142,2800,19.72,Production,52
+Professional,160,2600,16.25,Human Resources,17
+Professional,160,2500,15.62,Production,25
+Professional,160,2300,14.38,Human Resources,19
+Professional,114,1750,15.35,Production,25
+Professional,99,2250,22.73,Finance & Risk,12
+Professional,160,2300,14.38,Human Resources,19
+Professional,108,2350,21.76,Finance & Risk,20
+Professional,160,1900,11.88,Human Resources,22
+Professional,151,2650,17.55,Production,0
+Professional,118,2900,24.58,Marketing & Sales,22
+Professional,127,1850,14.57,Marketing & Sales,26
+Professional,146,2300,15.75,Marketing & Sales,5
+Professional,123,1900,15.45,Production,21
+Professional,142,2850,20.07,Marketing & Sales,16
+Professional,124,2350,18.95,Marketing & Sales,5
+Professional,160,2800,17.5,Marketing & Sales,30
+Professional,147,2350,15.99,Finance & Risk,16
+Professional,131,2150,16.41,Finance & Risk,16
+Professional,129,2900,22.48,Finance & Risk,19
+Professional,110,2950,26.82,Human Resources,32
+Professional,160,2050,12.81,Human Resources,12
+Professional,130,2000,15.38,Marketing & Sales,3
+Professional,146,2550,17.47,Marketing & Sales,22
+Professional,152,2700,17.76,Human Resources,25
+Professional,122,2450,20.08,Marketing & Sales,5
+Professional,135,2400,17.78,Marketing & Sales,15
+Professional,160,1750,10.94,Production,39
+Professional,125,2300,18.4,Human Resources,20
+Professional,127,2300,18.11,Production,39
+Professional,160,2000,12.5,Marketing & Sales,21
+Professional,97,2000,20.62,Finance & Risk,15
+Professional,142,1500,10.56,Marketing & Sales,7
+Professional,160,1550,9.69,Finance & Risk,14
+Professional,155,2550,16.45,Finance & Risk,13
+Professional,160,2450,15.31,Production,17
+Professional,120,1600,13.33,Human Resources,17
+Professional,160,2550,15.94,Production,11
+Professional,160,2300,14.38,Human Resources,21
+Professional,74,2400,32.43,Production,8
+Professional,160,2600,16.25,Marketing & Sales,21
+Professional,129,2050,15.89,Human Resources,16
+Professional,128,2300,17.97,Production,3
+Professional,143,2550,17.83,Production,25
+Professional,132,2750,20.83,Finance & Risk,17
+Professional,156,1800,11.54,Marketing & Sales,31
+Professional,160,1400,8.75,Marketing & Sales,22
+Professional,151,1950,12.91,Human Resources,18
+Professional,95,2100,22.11,Human Resources,19
+Professional,160,2600,16.25,Marketing & Sales,25
+Professional,146,2050,14.04,Human Resources,4
+Professional,160,2500,15.62,Finance & Risk,20
+Professional,110,1900,17.27,Production,26
+Professional,143,2350,16.43,Finance & Risk,19
+Professional,157,2450,15.61,Marketing & Sales,13
+Professional,159,2050,12.89,Marketing & Sales,43
+Professional,124,1900,15.32,Finance & Risk,22
+Professional,114,3050,26.75,Finance & Risk,18
+Professional,160,2500,15.62,Production,7
+Professional,106,2200,20.75,Production,26
+Professional,143,2200,15.38,Human Resources,12
+Professional,157,2000,12.74,Human Resources,24
+Professional,160,2600,16.25,Human Resources,14
+Professional,160,1850,11.56,Marketing & Sales,3
+Professional,79,2250,28.48,Human Resources,25
+Professional,129,2300,17.83,Human Resources,7
+Professional,74,2750,37.16,Finance & Risk,22
+Professional,108,1900,17.59,Marketing & Sales,19
+Professional,158,2550,16.14,Marketing & Sales,16
+Professional,78,2000,25.64,Marketing & Sales,3
+Professional,160,1800,11.25,Finance & Risk,16
+Professional,104,2950,28.37,Human Resources,16
+Professional,158,2000,12.66,Human Resources,26
+Professional,110,1750,15.91,Human Resources,12
+Professional,127,2700,21.26,Production,17
+Professional,145,1600,11.03,Human Resources,15
+Professional,122,2900,23.77,Human Resources,22
+Professional,157,2150,13.69,Human Resources,17
+Professional,158,2250,14.24,Finance & Risk,20
+Professional,133,2300,17.29,Finance & Risk,17
+Professional,77,2050,26.62,Production,29
+Professional,147,1800,12.24,Production,7
+Professional,86,2700,31.4,Marketing & Sales,17
+Professional,160,1500,9.38,Finance & Risk,13
+Professional,149,2400,16.11,Marketing & Sales,18
+Professional,160,2450,15.31,Finance & Risk,19
+Professional,157,1900,12.1,Finance & Risk,17
+Professional,140,1650,11.79,Finance & Risk,21
+Professional,133,1800,13.53,Production,3
+Professional,123,2100,17.07,Finance & Risk,17
+Professional,121,2150,17.77,Human Resources,27
+Professional,116,2400,20.69,Human Resources,20
+Professional,160,2700,16.88,Marketing & Sales,9
+Professional,120,2650,22.08,Marketing & Sales,20
+Professional,145,2600,17.93,Production,13
+Professional,154,2550,16.56,Finance & Risk,17
+Professional,68,2100,30.88,Marketing & Sales,23
+Professional,114,1950,17.11,Marketing & Sales,40
+Professional,108,1700,15.74,Production,30
+Professional,149,1600,10.74,Production,9
+Professional,132,2150,16.29,Finance & Risk,22
+Professional,132,2400,18.18,Production,11
+Professional,150,2500,16.67,Finance & Risk,18
+Professional,127,2350,18.5,Production,12
+Professional,127,1900,14.96,Production,20
+Professional,160,1800,11.25,Production,19
+Professional,89,2650,29.78,Human Resources,16
+Professional,153,2900,18.95,Human Resources,11
+Professional,111,2100,18.92,Production,16
+Professional,104,2800,26.92,Marketing & Sales,17
+Professional,140,2450,17.5,Production,19
+Professional,160,1800,11.25,Production,18
+Professional,160,1850,11.56,Human Resources,22
+Professional,108,2500,23.15,Human Resources,29
+Professional,160,2100,13.12,Production,17
+Professional,137,1900,13.87,Marketing & Sales,6
+Professional,157,1950,12.42,Marketing & Sales,28
+Professional,160,1800,11.25,Production,10
+Professional,135,2400,17.78,Marketing & Sales,14
+Professional,108,1950,18.06,Finance & Risk,17
+Professional,160,1850,11.56,Finance & Risk,20
+Professional,128,1900,14.84,Marketing & Sales,14
+Professional,77,2050,26.62,Human Resources,15
+Professional,153,2100,13.73,Production,14
+Professional,144,1950,13.54,Finance & Risk,21
+Professional,116,1500,12.93,Marketing & Sales,29
+Professional,160,2700,16.88,Finance & Risk,19
+Professional,94,1850,19.68,Human Resources,15
+Professional,113,2200,19.47,Marketing & Sales,7
+Professional,150,2050,13.67,Finance & Risk,16
+Professional,107,2850,26.64,Human Resources,13
+Professional,134,2650,19.78,Human Resources,9
+Professional,89,2250,25.28,Human Resources,18
+Professional,160,2650,16.56,Marketing & Sales,6
+Professional,160,1800,11.25,Production,25
+Professional,160,1950,12.19,Marketing & Sales,10
+Professional,160,2550,15.94,Marketing & Sales,20
+Professional,121,1800,14.88,Human Resources,14
+Professional,160,2000,12.5,Finance & Risk,18
+Professional,154,2500,16.23,Human Resources,12
+Professional,101,2050,20.3,Marketing & Sales,21
+Professional,130,1650,12.69,Marketing & Sales,5
+Professional,160,2150,13.44,Marketing & Sales,15
+Professional,152,2050,13.49,Human Resources,16
+Professional,143,1800,12.59,Production,30
+Professional,160,2850,17.81,Production,7
+Professional,98,2350,23.98,Finance & Risk,16
+Professional,160,2050,12.81,Finance & Risk,19
+Professional,112,1750,15.62,Production,28
+Professional,83,2500,30.12,Production,3
+Professional,147,2000,13.61,Marketing & Sales,25
+Professional,160,2800,17.5,Human Resources,23
+Professional,117,1500,12.82,Finance & Risk,21
+Professional,92,2150,23.37,Production,0
+Professional,160,1450,9.06,Human Resources,14
+Professional,112,2800,25,Marketing & Sales,25
+Professional,122,2400,19.67,Human Resources,14
+Professional,160,2450,15.31,Finance & Risk,18
+Professional,160,2500,15.62,Human Resources,31
+Professional,130,2400,18.46,Finance & Risk,14
+Professional,160,2250,14.06,Production,5
+Professional,127,2850,22.44,Marketing & Sales,18
+Professional,160,2050,12.81,Finance & Risk,18
+Professional,143,2050,14.34,Production,17
+Professional,160,2700,16.88,Production,11
+Professional,160,2350,14.69,Human Resources,21
+Professional,145,1850,12.76,Marketing & Sales,15
+Professional,131,2050,15.65,Human Resources,12
+Professional,160,1650,10.31,Production,11
+Professional,133,1950,14.66,Marketing & Sales,31
+Professional,159,2200,13.84,Production,1
+Professional,89,2150,24.16,Human Resources,20
+Professional,153,1350,8.82,Finance & Risk,21
+Professional,111,2400,21.62,Marketing & Sales,18
+Professional,160,2400,15,Finance & Risk,18
+Professional,160,1500,9.38,Human Resources,22
+Professional,91,2400,26.37,Production,13
+Professional,160,1850,11.56,Production,27
+Professional,132,1950,14.77,Finance & Risk,15
+Professional,99,2400,24.24,Finance & Risk,16
+Professional,144,2200,15.28,Human Resources,13
+Professional,160,2200,13.75,Finance & Risk,20
+Professional,108,1850,17.13,Production,21
+Professional,135,2150,15.93,Finance & Risk,15
+Professional,160,3050,19.06,Production,13
+Professional,151,2700,17.88,Finance & Risk,14
+Professional,145,2550,17.59,Human Resources,9
+Professional,100,2000,20,Marketing & Sales,6
+Professional,108,2800,25.93,Human Resources,24
+Professional,154,2850,18.51,Finance & Risk,20
+Professional,120,2300,19.17,Human Resources,23
+Professional,66,2000,30.3,Human Resources,24
+Professional,157,2550,16.24,Marketing & Sales,17
+Professional,160,2450,15.31,Production,5
+Professional,160,2300,14.38,Finance & Risk,15
+Professional,127,2750,21.65,Human Resources,22
+Professional,101,1900,18.81,Finance & Risk,18
+Professional,130,1500,11.54,Production,27
+Professional,154,2850,18.51,Production,3
+Professional,137,1750,12.77,Human Resources,16
+Professional,144,3000,20.83,Production,13
+Professional,160,2250,14.06,Human Resources,23
+Professional,113,1850,16.37,Marketing & Sales,21
+Professional,149,2550,17.11,Human Resources,18
+Professional,157,2500,15.92,Finance & Risk,18
+Professional,160,3000,18.75,Production,19
+Professional,46,2450,53.26,Production,19
+Professional,127,3000,23.62,Human Resources,13
+Professional,53,1750,33.02,Marketing & Sales,23
+Professional,125,2500,20,Production,4
+Professional,160,2300,14.38,Marketing & Sales,14
+Professional,129,2300,17.83,Human Resources,16
+Professional,130,2850,21.92,Finance & Risk,17
+Professional,160,2150,13.44,Finance & Risk,17
+Professional,117,2800,23.93,Marketing & Sales,26
+Professional,160,2250,14.06,Human Resources,21
+Professional,160,2350,14.69,Marketing & Sales,26
+Professional,144,2400,16.67,Production,28
+Professional,154,2050,13.31,Production,6
+Professional,160,2550,15.94,Production,31
+Professional,160,2050,12.81,Marketing & Sales,21
+Professional,137,1700,12.41,Production,14
+Professional,156,2500,16.03,Human Resources,22
+Professional,156,1600,10.26,Marketing & Sales,20
+Professional,88,1900,21.59,Human Resources,22
+Professional,160,1750,10.94,Marketing & Sales,18
+Professional,160,2000,12.5,Marketing & Sales,34
+Professional,160,2200,13.75,Finance & Risk,20
+Professional,144,2350,16.32,Marketing & Sales,29
+Professional,146,1950,13.36,Marketing & Sales,21
+Professional,137,2100,15.33,Marketing & Sales,27
+Professional,145,3150,21.72,Marketing & Sales,23
+Professional,160,1900,11.88,Production,34
+Professional,97,2950,30.41,Human Resources,16
+Professional,160,2750,17.19,Marketing & Sales,23
+Professional,152,2450,16.12,Finance & Risk,19
+Professional,149,2550,17.11,Marketing & Sales,28
+Professional,160,2500,15.62,Marketing & Sales,15
+Professional,89,1950,21.91,Production,10
+Professional,134,1400,10.45,Marketing & Sales,35
+Professional,160,2300,14.38,Production,6
+Professional,137,2650,19.34,Finance & Risk,19
+Professional,136,2350,17.28,Human Resources,23
+Professional,119,1800,15.13,Marketing & Sales,20
+Professional,160,2500,15.62,Human Resources,21
+Professional,124,1650,13.31,Marketing & Sales,25
+Senior,138,3150,22.83,Production,10
+Senior,141,4100,29.08,Finance & Risk,16
+Senior,70,3950,56.43,Production,3
+Senior,146,3450,23.63,Marketing & Sales,29
+Senior,135,2650,19.63,Finance & Risk,14
+Senior,133,3800,28.57,Finance & Risk,18
+Senior,102,4050,39.71,Marketing & Sales,32
+Senior,121,3700,30.58,Finance & Risk,19
+Senior,73,3050,41.78,Marketing & Sales,20
+Senior,136,2800,20.59,Marketing & Sales,23
+Senior,100,3450,34.5,Human Resources,22
+Senior,111,3000,27.03,Finance & Risk,20
+Senior,160,3250,20.31,Marketing & Sales,17
+Senior,160,3000,18.75,Finance & Risk,20
+Senior,101,2700,26.73,Finance & Risk,18
+Senior,135,3400,25.19,Finance & Risk,19
+Senior,160,3850,24.06,Human Resources,22
+Senior,143,4700,32.87,Human Resources,8
+Senior,94,3400,36.17,Finance & Risk,18
+Senior,145,3250,22.41,Human Resources,20
+Senior,120,3600,30,Production,27
+Senior,107,3100,28.97,Marketing & Sales,20
+Senior,90,3650,40.56,Marketing & Sales,9
+Senior,160,3350,20.94,Production,26
+Senior,157,2950,18.79,Production,38
+Senior,147,4450,30.27,Human Resources,21
+Senior,111,4850,43.69,Finance & Risk,24
+Senior,148,2000,13.51,Marketing & Sales,15
+Senior,151,4000,26.49,Human Resources,19
+Senior,142,4200,29.58,Finance & Risk,18
+Senior,160,3300,20.62,Production,37
+Senior,105,3150,30,Finance & Risk,19
+Senior,102,3800,37.25,Marketing & Sales,19
+Senior,152,2700,17.76,Production,1
+Senior,136,2150,15.81,Production,16
+Senior,160,3200,20,Marketing & Sales,18
+Senior,74,1950,26.35,Human Resources,20
+Senior,160,3200,20,Finance & Risk,14
+Senior,118,3300,27.97,Finance & Risk,15
+Senior,122,3450,28.28,Finance & Risk,17
+Senior,157,2950,18.79,Production,17
+Senior,69,3150,45.65,Production,15
+Senior,136,4050,29.78,Finance & Risk,16
+Senior,119,2750,23.11,Human Resources,22
+Senior,133,2850,21.43,Marketing & Sales,22
+Senior,142,4450,31.34,Marketing & Sales,17
+Senior,141,2350,16.67,Finance & Risk,14
+Senior,123,3050,24.8,Human Resources,17
+Senior,88,1750,19.89,Production,13
+Senior,160,3350,20.94,Production,27
+Senior,122,3250,26.64,Marketing & Sales,23
+Senior,124,2500,20.16,Finance & Risk,20
+Senior,149,2200,14.77,Finance & Risk,20
+Senior,100,2900,29,Marketing & Sales,24
+Senior,87,3650,41.95,Marketing & Sales,27
+Senior,160,2550,15.94,Human Resources,15
+Senior,160,4250,26.56,Production,19
+Senior,129,3350,25.97,Human Resources,11
+Senior,160,2900,18.12,Marketing & Sales,15
+Senior,133,4500,33.83,Human Resources,24
+Senior,160,3600,22.5,Production,11
+Senior,138,3600,26.09,Human Resources,15
+Senior,132,3150,23.86,Finance & Risk,17
+Senior,156,3600,23.08,Production,38
+Senior,137,3600,26.28,Human Resources,7
+Senior,108,2650,24.54,Human Resources,21
+Senior,113,3350,29.65,Production,14
+Senior,160,2700,16.88,Human Resources,6
+Senior,91,3500,38.46,Marketing & Sales,17
+Senior,160,4150,25.94,Finance & Risk,19
+Senior,140,2700,19.29,Human Resources,17
+Senior,160,2750,17.19,Finance & Risk,15
+Senior,140,4100,29.29,Marketing & Sales,22
+Senior,112,1300,11.61,Production,16
+Senior,132,3200,24.24,Marketing & Sales,28
+Senior,48,3200,66.67,Production,21
+Senior,108,2700,25,Finance & Risk,18
+Senior,147,3150,21.43,Marketing & Sales,12
+Senior,143,3300,23.08,Marketing & Sales,15
+Senior,160,3000,18.75,Human Resources,15
+Senior,104,3600,34.62,Human Resources,13
+Senior,152,3550,23.36,Marketing & Sales,27
+Senior,156,2200,14.1,Finance & Risk,15
+Senior,121,3400,28.1,Finance & Risk,14
+Senior,86,3250,37.79,Finance & Risk,20
+Senior,160,3500,21.88,Production,16
+Senior,133,2950,22.18,Production,8
+Senior,144,2950,20.49,Marketing & Sales,11
+Senior,125,2350,18.8,Marketing & Sales,22
+Senior,99,4100,41.41,Production,15
+Senior,127,2800,22.05,Finance & Risk,18
+Senior,160,3350,20.94,Marketing & Sales,19
+Senior,160,2750,17.19,Human Resources,12
+Senior,160,2450,15.31,Human Resources,15
+Senior,114,3550,31.14,Marketing & Sales,12
+Senior,86,5150,59.88,Marketing & Sales,10
+Senior,154,3150,20.45,Production,18
+Senior,139,3500,25.18,Human Resources,14
+Senior,139,3150,22.66,Finance & Risk,18
+Senior,125,3400,27.2,Finance & Risk,16
+Senior,86,2400,27.91,Human Resources,13
+Senior,155,3600,23.23,Marketing & Sales,17
+Senior,105,2300,21.9,Human Resources,23
+Senior,117,3200,27.35,Production,3
+Senior,63,3000,47.62,Marketing & Sales,18
+Senior,160,3200,20,Human Resources,29
+Senior,152,3500,23.03,Marketing & Sales,22
+Senior,96,2350,24.48,Marketing & Sales,11
+Senior,143,2950,20.63,Marketing & Sales,4
+Senior,121,2750,22.73,Marketing & Sales,13
+Senior,160,2850,17.81,Marketing & Sales,19
+Senior,160,3800,23.75,Finance & Risk,19
+Senior,160,2750,17.19,Finance & Risk,17
+Senior,124,3400,27.42,Human Resources,16
+Senior,152,4000,26.32,Marketing & Sales,14
+Senior,160,3250,20.31,Human Resources,26
+Senior,131,2800,21.37,Production,17
+Senior,119,3750,31.51,Marketing & Sales,24
+Senior,160,3100,19.38,Production,12
+Senior,160,2350,14.69,Finance & Risk,21
+Senior,152,2950,19.41,Production,35
+Senior,116,3550,30.6,Marketing & Sales,24
+Senior,160,3300,20.62,Production,20
+Senior,78,3950,50.64,Marketing & Sales,29
+Senior,160,3000,18.75,Production,41
+Senior,102,3850,37.75,Production,22
+Senior,160,3100,19.38,Human Resources,9
+Senior,160,2600,16.25,Production,16
+Senior,135,2000,14.81,Human Resources,10
+Senior,160,2950,18.44,Human Resources,19
+Senior,117,2300,19.66,Finance & Risk,19
+Senior,160,3900,24.38,Marketing & Sales,11
+Senior,97,3150,32.47,Finance & Risk,21
+Senior,160,2300,14.38,Finance & Risk,20
+Senior,140,1750,12.5,Finance & Risk,15
+Senior,160,2750,17.19,Finance & Risk,19
+Senior,117,3750,32.05,Production,44
+Senior,160,2800,17.5,Marketing & Sales,0
+Senior,132,3850,29.17,Finance & Risk,20
+Senior,142,2850,20.07,Marketing & Sales,9
+Senior,141,950,6.74,Production,49
+Senior,160,3050,19.06,Finance & Risk,19
+Senior,82,2700,32.93,Human Resources,22
+Senior,160,2150,13.44,Human Resources,24
+Senior,92,3150,34.24,Marketing & Sales,15
+Senior,147,1550,10.54,Production,46
+Senior,136,2700,19.85,Production,13
+Senior,133,2550,19.17,Marketing & Sales,20
+Senior,138,3900,28.26,Human Resources,21
+Senior,138,3300,23.91,Marketing & Sales,24
+Senior,139,2650,19.06,Human Resources,13
+Senior,140,2750,19.64,Human Resources,21
+Senior,90,2750,30.56,Production,1
+Senior,160,2750,17.19,Finance & Risk,16
+Senior,83,3850,46.39,Marketing & Sales,17
+Senior,160,3800,23.75,Finance & Risk,17
+Senior,120,2700,22.5,Human Resources,14
+Senior,134,2900,21.64,Human Resources,14
+Senior,148,3650,24.66,Finance & Risk,14
+Senior,160,4000,25,Finance & Risk,19
+Senior,93,3300,35.48,Marketing & Sales,22
+Senior,97,2750,28.35,Finance & Risk,15
+Senior,135,2500,18.52,Marketing & Sales,22
+Senior,160,4250,26.56,Finance & Risk,21
+Senior,131,3350,25.57,Finance & Risk,20
+Senior,160,3550,22.19,Human Resources,17
+Senior,127,3050,24.02,Marketing & Sales,17
+Senior,140,3250,23.21,Finance & Risk,14
+Senior,160,3500,21.88,Production,10
+Senior,160,2400,15,Finance & Risk,18
+Senior,121,1850,15.29,Human Resources,22
+Senior,123,2650,21.54,Finance & Risk,18
+Senior,158,4250,26.9,Finance & Risk,19
+Senior,160,2400,15,Marketing & Sales,16
+Senior,117,3650,31.2,Marketing & Sales,6
+Senior,127,1900,14.96,Marketing & Sales,8
+Senior,125,2700,21.6,Human Resources,16
+Senior,93,3700,39.78,Finance & Risk,17
+Senior,56,3500,62.5,Human Resources,18
+Senior,121,3600,29.75,Production,41
+Senior,102,3150,30.88,Finance & Risk,17
+Senior,135,3050,22.59,Human Resources,11
+Senior,125,2600,20.8,Marketing & Sales,15
+Senior,104,3500,33.65,Production,41
+Senior,142,1700,11.97,Human Resources,14
+Senior,129,2900,22.48,Production,19
+Senior,135,3000,22.22,Finance & Risk,14
+Senior,88,2200,25,Human Resources,22
+Senior,154,3100,20.13,Finance & Risk,19
+Senior,140,4050,28.93,Human Resources,16
+Senior,130,2550,19.62,Marketing & Sales,21
+Senior,119,2200,18.49,Production,22
+Senior,138,3100,22.46,Finance & Risk,17
+Senior,114,3750,32.89,Human Resources,26
+Senior,118,3650,30.93,Finance & Risk,17
+Senior,157,3000,19.11,Production,30
+Senior,105,2550,24.29,Production,26
+Senior,160,3500,21.88,Production,16
+Senior,80,3650,45.62,Human Resources,15
+Senior,160,3000,18.75,Human Resources,10
+Senior,116,3400,29.31,Finance & Risk,16
+Senior,149,1650,11.07,Human Resources,11
+Senior,160,2700,16.88,Human Resources,14
+Senior,160,2600,16.25,Production,9
+Senior,160,2400,15,Production,36
+Senior,125,3600,28.8,Human Resources,25
+Senior,107,3250,30.37,Human Resources,17
+Senior,138,4250,30.8,Finance & Risk,18
+Senior,160,3500,21.88,Production,23
+Senior,160,2500,15.62,Production,16
+Senior,124,3850,31.05,Marketing & Sales,12
+Senior,148,4300,29.05,Marketing & Sales,20
+Senior,136,4200,30.88,Production,10
+Senior,160,3150,19.69,Finance & Risk,18
+Senior,160,4850,30.31,Marketing & Sales,21
+Senior,136,3700,27.21,Finance & Risk,18
+Senior,160,3450,21.56,Human Resources,23
+Senior,147,3200,21.77,Human Resources,20
+Senior,160,2450,15.31,Finance & Risk,19
+Senior,121,4100,33.88,Production,34
+Senior,149,3850,25.84,Marketing & Sales,18
+Senior,111,2150,19.37,Human Resources,19
+Senior,130,3850,29.62,Production,9
+Senior,146,2300,15.75,Finance & Risk,12
+Senior,97,3650,37.63,Human Resources,7
+Senior,106,3000,28.3,Marketing & Sales,17
+Senior,136,2900,21.32,Human Resources,24
+Senior,149,2500,16.78,Production,36
+Senior,141,2550,18.09,Marketing & Sales,19
+Senior,139,2750,19.78,Finance & Risk,18
+Senior,138,2950,21.38,Finance & Risk,19
+Senior,120,2600,21.67,Marketing & Sales,15
+Senior,160,3750,23.44,Marketing & Sales,14
+Senior,143,3600,25.17,Production,18
+Senior,146,2150,14.73,Marketing & Sales,6
+Senior,108,3250,30.09,Production,18
+Senior,83,3700,44.58,Marketing & Sales,17
+Senior,110,3200,29.09,Marketing & Sales,26
+Senior,128,4050,31.64,Production,11
+Senior,128,3400,26.56,Finance & Risk,21
+Senior,139,3900,28.06,Human Resources,16
+Senior,125,2750,22,Finance & Risk,22
+Senior,108,3700,34.26,Finance & Risk,19
+Senior,111,3650,32.88,Production,11
+Senior,113,3000,26.55,Human Resources,21
+Senior,126,3800,30.16,Finance & Risk,20
+Senior,156,3400,21.79,Human Resources,19
+Senior,133,4250,31.95,Human Resources,14
+Senior,114,1650,14.47,Production,13
+Senior,139,3250,23.38,Marketing & Sales,20
+Senior,160,3750,23.44,Human Resources,10
+Senior,109,2950,27.06,Human Resources,15
+Senior,160,3900,24.38,Production,22
+Senior,142,3250,22.89,Human Resources,12
+Senior,160,2450,15.31,Finance & Risk,16
+Senior,160,2700,16.88,Marketing & Sales,29
+Senior,120,4350,36.25,Marketing & Sales,16
+Senior,128,3000,23.44,Human Resources,13
+Senior,126,3450,27.38,Human Resources,15
+Senior,142,3650,25.7,Finance & Risk,18
+Senior,140,3450,24.64,Human Resources,17
+Senior,130,2350,18.08,Human Resources,16
+Senior,120,4400,36.67,Marketing & Sales,18
+Senior,154,3400,22.08,Production,19
+Senior,124,2800,22.58,Finance & Risk,18
+Senior,160,2100,13.12,Human Resources,14
+Senior,135,4250,31.48,Finance & Risk,18
+Senior,133,1800,13.53,Marketing & Sales,23
+Senior,140,2900,20.71,Marketing & Sales,20
+Senior,132,2450,18.56,Human Resources,19
+Senior,145,3800,26.21,Marketing & Sales,16
+Senior,155,3550,22.9,Marketing & Sales,29
+Senior,154,3450,22.4,Production,11
+Senior,124,2850,22.98,Marketing & Sales,9
+Senior,104,2050,19.71,Finance & Risk,18
+Senior,141,2400,17.02,Finance & Risk,19
+Senior,119,2600,21.85,Human Resources,18
+Senior,121,3100,25.62,Human Resources,21
+Senior,134,3300,24.63,Production,0
+Senior,95,3300,34.74,Human Resources,15
+Senior,115,4100,35.65,Human Resources,23
+Senior,125,2900,23.2,Human Resources,21
+Senior,160,3400,21.25,Production,6
+Senior,108,3350,31.02,Human Resources,11
+Senior,160,3100,19.38,Marketing & Sales,26
+Senior,160,2400,15,Production,46
+Senior,160,3050,19.06,Human Resources,18
+Senior,160,2650,16.56,Marketing & Sales,26
+Senior,160,3000,18.75,Marketing & Sales,31
+Senior,160,3350,20.94,Production,20
+Senior,83,2200,26.51,Marketing & Sales,22
+Senior,126,3700,29.37,Human Resources,13
+Senior,158,2900,18.35,Human Resources,17
+Senior,160,3000,18.75,Finance & Risk,20
+Senior,160,3900,24.38,Human Resources,19
+Senior,143,3400,23.78,Marketing & Sales,11
+Senior,125,2700,21.6,Marketing & Sales,12
+Senior,160,3350,20.94,Finance & Risk,16
+Senior,160,3950,24.69,Production,4
+Senior,156,2800,17.95,Marketing & Sales,22
+Senior,121,2900,23.97,Finance & Risk,21
+Senior,134,2950,22.01,Production,25
+Senior,135,2350,17.41,Human Resources,16
+Senior,141,3900,27.66,Marketing & Sales,18
+Senior,122,3300,27.05,Finance & Risk,20
+Senior,142,2750,19.37,Finance & Risk,20
+Senior,160,3950,24.69,Marketing & Sales,9
+Senior,151,2000,13.25,Marketing & Sales,9
+Senior,57,2600,45.61,Marketing & Sales,12
+Senior,151,2650,17.55,Human Resources,19
+Senior,160,2800,17.5,Production,16
+Senior,141,3750,26.6,Marketing & Sales,21
+Senior,132,2800,21.21,Production,14
+Senior,130,3550,27.31,Finance & Risk,18
+Senior,160,2200,13.75,Finance & Risk,16
+Senior,160,3200,20,Production,37
+Senior,129,3400,26.36,Human Resources,16
+Senior,160,2500,15.62,Finance & Risk,17
+Senior,125,3300,26.4,Production,24
+Senior,108,2900,26.85,Production,7
+Senior,160,3900,24.38,Human Resources,20
+Senior,149,2700,18.12,Production,16
+Senior,153,1250,8.17,Finance & Risk,19
+Senior,160,2850,17.81,Finance & Risk,19
+Senior,122,2400,19.67,Finance & Risk,16
+Senior,130,3000,23.08,Production,38
+Senior,160,3250,20.31,Human Resources,15
+Senior,160,2850,17.81,Marketing & Sales,32
+Senior,65,1900,29.23,Finance & Risk,20
+Senior,134,3300,24.63,Production,0
+Senior,126,1950,15.48,Finance & Risk,16
+Senior,160,2500,15.62,Marketing & Sales,24
+Senior,145,2950,20.34,Human Resources,18
+Senior,105,3300,31.43,Production,26
+Senior,142,2200,15.49,Marketing & Sales,14
+Senior,134,2950,22.01,Production,28
+Expert,95,3200,33.68,Marketing & Sales,22
+Expert,120,5100,42.5,Marketing & Sales,7
+Expert,86,4100,47.67,Human Resources,23
+Expert,160,6050,37.81,Marketing & Sales,15
+Expert,99,5200,52.53,Human Resources,24
+Expert,111,5850,52.7,Human Resources,18
+Expert,154,5650,36.69,Finance & Risk,19
+Expert,160,5200,32.5,Human Resources,14
+Expert,148,4700,31.76,Marketing & Sales,20
+Expert,152,4550,29.93,Human Resources,16
+Expert,160,5900,36.88,Production,13
+Expert,136,4450,32.72,Finance & Risk,17
+Expert,153,4600,30.07,Finance & Risk,17
+Expert,153,6100,39.87,Marketing & Sales,23
+Expert,160,6600,41.25,Human Resources,21
+Expert,154,4050,26.3,Finance & Risk,18
+Expert,114,4550,39.91,Human Resources,10
+Expert,145,6150,42.41,Production,14
+Expert,146,6600,45.21,Finance & Risk,17
+Expert,140,5950,42.5,Production,19
+Expert,117,5350,45.73,Marketing & Sales,5
+Expert,155,4100,26.45,Finance & Risk,20
+Expert,105,4100,39.05,Production,40
+Expert,139,6150,44.24,Finance & Risk,18
+Expert,136,3800,27.94,Marketing & Sales,2
+Expert,158,3300,20.89,Finance & Risk,24
+Expert,122,7600,62.3,Human Resources,12
+Expert,160,4800,30,Production,0
+Expert,140,5550,39.64,Production,14
+Expert,137,5000,36.5,Human Resources,24
+Expert,160,5050,31.56,Human Resources,15
+Expert,160,5900,36.88,Production,9
+Expert,150,6850,45.67,Production,14
+Expert,160,5100,31.88,Production,13
+Expert,141,3800,26.95,Production,5
+Expert,160,5950,37.19,Finance & Risk,18
+Expert,160,5700,35.62,Finance & Risk,20
+Expert,136,3500,25.74,Marketing & Sales,9
+Expert,154,5300,34.42,Human Resources,18
+Expert,127,4000,31.5,Finance & Risk,19
+Expert,136,4950,36.4,Production,8
+Expert,90,5000,55.56,Production,25
+Expert,107,4400,41.12,Human Resources,5
+Expert,130,5450,41.92,Production,24
+Expert,151,5450,36.09,Marketing & Sales,22
+Expert,133,6600,49.62,Finance & Risk,15
+Expert,113,5600,49.56,Production,14
+Expert,160,5000,31.25,Marketing & Sales,21
+Expert,124,5800,46.77,Finance & Risk,15
+Expert,160,5100,31.88,Production,49
+Expert,135,5500,40.74,Marketing & Sales,8
+Expert,118,8250,69.92,Finance & Risk,17
+Expert,102,5900,57.84,Production,21
+Expert,156,3900,25,Marketing & Sales,14
+Expert,160,5550,34.69,Finance & Risk,20
+Expert,142,2750,19.37,Finance & Risk,18
+Expert,160,6200,38.75,Human Resources,20
+Expert,160,6600,41.25,Production,22
+Expert,160,6450,40.31,Human Resources,15
+Expert,140,5650,40.36,Finance & Risk,20
+Expert,157,6850,43.63,Production,18
+Expert,123,2800,22.76,Finance & Risk,18
+Expert,147,5900,40.14,Marketing & Sales,24
+Expert,160,6350,39.69,Production,0
+Expert,120,7350,61.25,Finance & Risk,16
+Expert,135,7450,55.19,Production,24
+Expert,131,3850,29.39,Production,22
+Expert,130,5500,42.31,Finance & Risk,16
+Expert,124,5800,46.77,Finance & Risk,17
+Expert,109,6150,56.42,Marketing & Sales,21
+Expert,95,6250,65.79,Finance & Risk,20
+Expert,156,5200,33.33,Human Resources,16
+Expert,160,5400,33.75,Marketing & Sales,10
+Expert,156,4450,28.53,Human Resources,18
+Expert,152,5350,35.2,Production,17
+Expert,103,4550,44.17,Human Resources,22
+Expert,160,6950,43.44,Finance & Risk,17
+Expert,152,6700,44.08,Finance & Risk,19
+Expert,160,4500,28.12,Human Resources,19
+Expert,132,3900,29.55,Finance & Risk,19
+Expert,98,5950,60.71,Human Resources,19
+Expert,160,3050,19.06,Production,11
+Expert,104,5850,56.25,Human Resources,25
+Expert,132,5350,40.53,Production,1
+Expert,160,6150,38.44,Production,33
+Expert,135,6250,46.3,Production,21
+Expert,125,6550,52.4,Human Resources,11
+Expert,160,4150,25.94,Finance & Risk,21
+Expert,112,4500,40.18,Marketing & Sales,21
+Expert,119,4800,40.34,Marketing & Sales,17
+Expert,160,4000,25,Production,25
+Expert,140,7550,53.93,Human Resources,16
+Expert,138,4450,32.25,Finance & Risk,18
+Expert,70,6650,95,Finance & Risk,17
+Expert,160,4150,25.94,Human Resources,22
+Expert,160,5000,31.25,Production,41
+Expert,82,6600,80.49,Human Resources,8
+Expert,132,3900,29.55,Marketing & Sales,23
+Expert,135,7250,53.7,Marketing & Sales,20
+Expert,78,7300,93.59,Finance & Risk,19
+Expert,103,5150,50,Human Resources,16
+Expert,136,6600,48.53,Marketing & Sales,22
+Expert,121,4650,38.43,Production,5
+Expert,145,5600,38.62,Human Resources,17
+Expert,87,3550,40.8,Production,2
+Expert,108,5350,49.54,Marketing & Sales,21
+Expert,160,4850,30.31,Production,16
+Expert,147,6300,42.86,Production,26
+Expert,97,5850,60.31,Production,23
+Expert,104,5700,54.81,Marketing & Sales,13
+Expert,126,6350,50.4,Finance & Risk,19
+Expert,113,5650,50,Human Resources,23
+Expert,95,6000,63.16,Human Resources,23
+Expert,160,2150,13.44,Finance & Risk,15
+Expert,148,4900,33.11,Production,39
+Expert,160,5200,32.5,Human Resources,18
+Expert,114,3950,34.65,Marketing & Sales,14
+Expert,135,2850,21.11,Human Resources,20
+Expert,81,4950,61.11,Marketing & Sales,24
+Expert,143,3850,26.92,Human Resources,20
+Expert,153,5550,36.27,Production,7
+Expert,160,5500,34.38,Marketing & Sales,10
+Expert,130,3500,26.92,Finance & Risk,16
+Expert,115,5650,49.13,Marketing & Sales,14
+Expert,136,4650,34.19,Finance & Risk,18
+Expert,160,4900,30.62,Finance & Risk,21
+Expert,145,3900,26.9,Finance & Risk,15
+Expert,142,3800,26.76,Finance & Risk,18
+Expert,140,6200,44.29,Finance & Risk,20
+Expert,140,5600,40,Production,23
+Expert,139,6050,43.53,Finance & Risk,19
+Expert,141,5750,40.78,Finance & Risk,19
+Expert,94,5100,54.26,Production,8
+Expert,160,6250,39.06,Production,21
+Expert,148,4050,27.36,Production,35
+Expert,160,6100,38.12,Marketing & Sales,31
+Expert,160,7150,44.69,Marketing & Sales,0
+Expert,146,5800,39.73,Production,12
+Expert,119,7150,60.08,Finance & Risk,20
+Expert,133,4550,34.21,Human Resources,11
+Expert,128,5300,41.41,Human Resources,8
+Expert,80,4250,53.12,Human Resources,17
+Expert,126,6450,51.19,Production,15
+Expert,76,4650,61.18,Marketing & Sales,21
+Expert,160,6600,41.25,Marketing & Sales,20
+Expert,88,5100,57.95,Finance & Risk,17
+Expert,160,5200,32.5,Human Resources,25
+Expert,132,3400,25.76,Finance & Risk,18
+Expert,139,5150,37.05,Finance & Risk,19
+Expert,160,3800,23.75,Finance & Risk,14
+Expert,160,4900,30.62,Human Resources,29
+Expert,135,4950,36.67,Finance & Risk,14
+Expert,129,6800,52.71,Human Resources,19
+Expert,154,6150,39.94,Production,17
+Expert,158,6750,42.72,Human Resources,20
+Expert,154,4150,26.95,Finance & Risk,14
+Expert,160,4350,27.19,Marketing & Sales,25
+Expert,160,3100,19.38,Finance & Risk,18
+Expert,134,5600,41.79,Marketing & Sales,0
+Expert,108,4500,41.67,Finance & Risk,19
+Expert,160,5850,36.56,Finance & Risk,20
+Expert,153,4150,27.12,Production,0
+Expert,118,6350,53.81,Human Resources,8
+Expert,99,4100,41.41,Human Resources,11
+Expert,150,5900,39.33,Marketing & Sales,20
+Manager,113,38850,343.81,Finance & Risk,15
+Manager,133,52400,393.98,Human Resources,24
+Manager,85,28550,335.88,Production,5
+Manager,159,42050,264.47,Production,26
+Manager,160,40850,255.31,Production,40
+Manager,141,45100,319.86,Finance & Risk,16
+Manager,123,38300,311.38,Marketing & Sales,15
+Manager,145,39100,269.66,Production,30
+Manager,160,47750,298.44,Human Resources,19
+Manager,127,49100,386.61,Marketing & Sales,5
+Manager,98,27400,279.59,Marketing & Sales,25
+Manager,123,40650,330.49,Human Resources,16
+Manager,101,17950,177.72,Marketing & Sales,19
+Manager,117,40250,344.02,Marketing & Sales,26
+Manager,133,36250,272.56,Marketing & Sales,29
+Manager,160,61100,381.88,Finance & Risk,18
+Manager,160,38050,237.81,Marketing & Sales,27
+Manager,124,46800,377.42,Finance & Risk,18
+Manager,130,43800,336.92,Human Resources,18
+Manager,143,52400,366.43,Marketing & Sales,32
+Manager,122,22250,182.38,Human Resources,29
+Manager,130,43500,334.62,Production,9
+Manager,110,34550,314.09,Human Resources,16
+Manager,138,20500,148.55,Human Resources,25
+Manager,160,33600,210,Human Resources,22
+Manager,159,30500,191.82,Production,39
+Manager,147,37950,258.16,Production,23
+Manager,160,40350,252.19,Marketing & Sales,22
+Manager,160,31700,198.12,Finance & Risk,17
+Manager,46,47400,1030.43,Human Resources,24
