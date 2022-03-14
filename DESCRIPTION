@@ -1,12 +1,16 @@
 Package: MSBStatsData
 Title: Package containing data for my statistics courses at the Münster School of Business
-Version: 0.0.0.9000
-Authors@R: 
+Version: 0.0.1
+Authors@R: c(
     person(given = "Michael",
            family = "Bücker",
            role = c("aut", "cre"),
            email = "michael.buecker@fh-muenster.de",
-           comment = c(ORCID = "0000-0003-0045-8460"))
+           comment = c(ORCID = "0000-0003-0045-8460")),
+    person(given = "Niels", 
+           family = "Schlüsener",
+           email = "niels.schluesener@fh-muenster.de",
+           role = c("aut")))
 Description: What the package does (one paragraph).
 License: GPL (>= 3)
 Encoding: UTF-8
