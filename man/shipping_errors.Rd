@@ -5,16 +5,16 @@
 \alias{shipping_errors}
 \title{Shipping error data}
 \format{
-A tibble with 10 rows and 2 variables:
+A tibble with 576 rows and 2 variables:
 \describe{
-\item{error [fct]}{...}
-\item{shipping [fct]}{...}
+\item{error [fct]}{Indicator whether or not an error appeared during shipment.}
+\item{shipping [fct]}{Shipment method requested by the customer.}
 }
 }
 \usage{
 shipping_errors
 }
 \description{
-blabla
+Dataset recording errors in the shipment and the type of delivery requested by the customer in the process.
 }
 \keyword{datasets}

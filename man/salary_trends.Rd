@@ -7,14 +7,14 @@
 \format{
 A tibble with 10 rows and 2 variables:
 \describe{
-\item{year [dbl]}{...}
-\item{avg_salary [dbl]}{...}
+\item{year [dbl]}{Year of record.}
+\item{avg_salary [dbl]}{Average salary in the corresponding year.}
 }
 }
 \usage{
 salary_trends
 }
 \description{
-blabla
+Dataset containing the average salary of a footwear company's employees over 10 years.
 }
 \keyword{datasets}
