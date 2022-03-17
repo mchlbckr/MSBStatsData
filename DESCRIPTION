@@ -11,7 +11,7 @@ Authors@R: c(
            family = "Schlüsener",
            email = "niels.schluesener@fh-muenster.de",
            role = c("aut")))
-Description: What the package does (one paragraph).
+Description: Package containing data for my statistics courses at the Münster School of Business.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
