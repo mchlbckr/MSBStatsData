@@ -1,5 +1,5 @@
 Package: MSBStatsData
-Title: Package containing data for my statistics courses at the Münster School of Business
+Title: Package Containing Data for My Statistics Courses at the Münster School of Business
 Version: 0.0.2
 Authors@R: c(
     person(given = "Michael",
