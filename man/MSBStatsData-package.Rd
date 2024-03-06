@@ -11,5 +11,10 @@ What the package does (one paragraph).
 \author{
 \strong{Maintainer}: Michael Bücker \email{michael.buecker@fh-muenster.de} (\href{https://orcid.org/0000-0003-0045-8460}{ORCID})
 
+Authors:
+\itemize{
+  \item Niels Schlüsener \email{niels.schluesener@fh-muenster.de}
+}
+
 }
 \keyword{internal}
