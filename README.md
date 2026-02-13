@@ -1,4 +1,4 @@
-[![R-CMD-check](https://github.com/mchlbckr/MSBStatsData/actions/workflows/MSBStatsData.yml/badge.svg)](https://github.com/mchlbckr/MSBStatsData/actions/workflows/MSBStatsData.yml)
+[![R-CMD-check](https://github.com/mchlbckr/MSBStatsData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mchlbckr/MSBStatsData/actions/workflows/R-CMD-check.yaml)
 [![CRAN status](https://www.r-pkg.org/badges/version/MSBStatsData)](https://CRAN.R-project.org/package=MSBStatsData)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/MSBStatsData)](https://cran.r-project.org/package=MSBStatsData)
 [![CRAN total downloads](https://cranlogs.r-pkg.org/badges/grand-total/MSBStatsData)](https://cran.r-project.org/package=MSBStatsData)
