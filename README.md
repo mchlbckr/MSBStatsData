@@ -5,11 +5,7 @@
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/MSBStatsData)](https://cran.r-project.org/package=MSBStatsData)
 [![CRAN total downloads](https://cranlogs.r-pkg.org/badges/grand-total/MSBStatsData)](https://cran.r-project.org/package=MSBStatsData)
 
-<p align="center">
-  <img src="hexagon.png" alt="MSBStatsData hex sticker" width="220" />
-</p>
-
-# MSBStatsData
+# MSBStatsData <img src="hexagon.png" align="right" width="120" alt="MSBStatsData hex sticker" />
 
 `MSBStatsData` provides curated teaching datasets for statistics and data science
 courses at the Muenster School of Business.
