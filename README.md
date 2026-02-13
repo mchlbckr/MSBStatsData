@@ -1,5 +1,5 @@
 [![R-CMD-check](https://github.com/mchlbckr/MSBStatsData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mchlbckr/MSBStatsData/actions/workflows/R-CMD-check.yaml)
-[![GitHub release](https://img.shields.io/github/v/release/mchlbckr/MSBStatsData)](https://github.com/mchlbckr/MSBStatsData/releases)
+[![GitHub repo](https://img.shields.io/badge/GitHub-mchlbckr%2FMSBStatsData-181717?logo=github)](https://github.com/mchlbckr/MSBStatsData)
 [![License: GPL-3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CRAN status](https://www.r-pkg.org/badges/version/MSBStatsData)](https://CRAN.R-project.org/package=MSBStatsData)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/MSBStatsData)](https://cran.r-project.org/package=MSBStatsData)
