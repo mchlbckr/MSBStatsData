@@ -1,5 +1,5 @@
 Package: MSBStatsData
-Title: Package Containing Data for My Statistics Courses at the Münster School of Business
+Title: Data Sets for Courses at the Münster School of Business
 Version: 0.0.2
 Authors@R: c(
     person(given = "Michael",
@@ -11,13 +11,13 @@ Authors@R: c(
            family = "Schlüsener",
            email = "niels.schluesener@fh-muenster.de",
            role = c("aut")))
-Description: Package containing data for my statistics courses at the Münster School of Business.
+Description: Provides sample data sets that are used in statistics and data science courses at the Münster School of Business. The datasets refer to different business topics but also other domains, e.g. sports, traffic, etc.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3
 Depends: 
-    R (>= 2.10)
+    R (>= 3.5)
 Imports: 
     tibble

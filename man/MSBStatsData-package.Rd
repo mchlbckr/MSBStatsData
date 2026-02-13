@@ -4,9 +4,9 @@
 \name{MSBStatsData-package}
 \alias{MSBStatsData}
 \alias{MSBStatsData-package}
-\title{MSBStatsData: Package containing data for my statistics courses at the Münster School of Business}
+\title{MSBStatsData: Data Sets for Courses at the Münster School of Business}
 \description{
-What the package does (one paragraph).
+Provides sample data sets that are used in statistics and data science courses at the Münster School of Business. The datasets refer to different business topics but also other domains, e.g. sports, traffic, etc.
 }
 \author{
 \strong{Maintainer}: Michael Bücker \email{michael.buecker@fh-muenster.de} (\href{https://orcid.org/0000-0003-0045-8460}{ORCID})
