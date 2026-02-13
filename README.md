@@ -8,7 +8,8 @@
 # MSBStatsData <img src="hexagon.png" align="right" width="120" alt="MSBStatsData hex sticker" />
 
 `MSBStatsData` provides curated teaching datasets for statistics and data science
-courses at the Muenster School of Business.
+courses at the [Münster School of Business](https://www.fh-muenster.de/msb/) at
+[FH Münster](https://www.fh-muenster.de/).
 
 The package is designed for reproducible exercises and solutions in R, with data
 that works well across core topics like frequencies, location and dispersion
@@ -61,7 +62,7 @@ subset(
   - `car_brand_by_occupation`
   - `car_brand_by_occupation_individual`
 
-- Muenster mobility data
+- Münster mobility data
   - `bike_sites_muenster`
   - `bike_counts_hourly_muenster_2025`
   - `bike_counts_hourly_muenster_2025_citywide`
