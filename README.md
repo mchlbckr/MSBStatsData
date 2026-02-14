@@ -30,12 +30,12 @@ install.packages("MSBStatsData")
 ```r
 library(MSBStatsData)
 
-data("cinema_visitors_100days")
-head(cinema_visitors_100days)
+data("cinema_visitors")
+head(cinema_visitors)
 
-data("de_energy_prices_monthly")
+data("de_energy_prices")
 subset(
-  de_energy_prices_monthly,
+  de_energy_prices,
   series %in% c("electricity", "transport_fuels")
 )[1:6, c("date", "series", "price_index_2015_100")]
 ```
@@ -43,34 +43,34 @@ subset(
 ## Selected datasets
 
 - Core teaching data
-  - `cinema_visitors_100days`
-  - `bvb_final_rankings_1988_2022`
-  - `website_dwell_time_grouped`
-  - `checkout_service_times`
-  - `research_ad_spending`
-  - `environment_survey_eu10`
+  - `cinema_visitors`
+  - `bvb_rankings`
+  - `website_dwell`
+  - `checkout_times`
+  - `research_ads`
+  - `env_survey_eu10`
 
 - Contingency-table data (aggregated + individual)
-  - `union_agreement_satisfaction`
-  - `union_agreement_satisfaction_individual`
-  - `sport_activity_by_occupation`
-  - `sport_activity_by_occupation_individual`
-  - `florida_murder_sentencing`
-  - `florida_murder_sentencing_individual`
-  - `tv_viewing_by_gender`
-  - `tv_viewing_by_gender_individual`
-  - `car_brand_by_occupation`
-  - `car_brand_by_occupation_individual`
+  - `union_satisfaction`
+  - `union_satisfaction_ind`
+  - `sport_occupation`
+  - `sport_occupation_ind`
+  - `florida_sentencing`
+  - `florida_sentencing_ind`
+  - `tv_gender`
+  - `tv_gender_ind`
+  - `car_occupation`
+  - `car_occupation_ind`
 
 - Münster mobility data
-  - `bike_sites_muenster`
-  - `bike_counts_hourly_muenster_2025`
-  - `bike_counts_hourly_muenster_2025_citywide`
+  - `ms_bike_sites`
+  - `ms_bike_hourly_2025`
+  - `ms_bike_hourly_2025_city`
 
 - Public statistics snapshots (Germany/NRW)
-  - `nrw_population_districts`
-  - `de_election_states`
-  - `de_energy_prices_monthly`
+  - `nrw_population`
+  - `de_elections`
+  - `de_energy_prices`
 
 ## Listing all datasets
 

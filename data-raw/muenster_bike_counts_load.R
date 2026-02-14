@@ -2,7 +2,7 @@ library(tibble)
 
 base_url <- "https://raw.githubusercontent.com/od-ms/radverkehr-zaehlstellen/main"
 
-bike_sites_muenster <- tibble(
+ms_bike_sites <- tibble(
   station_id = c(
     "100020113", "100031297", "100031300", "100034980", "100034981", "100034982",
     "100034983", "100035541", "100053305", "300037405", "300037544", "300037920",
@@ -44,14 +44,14 @@ download_station_month <- function(station_id, station_name, year, month) {
 }
 
 year_to_download <- 2025
-monthly_station_data <- vector("list", nrow(bike_sites_muenster) * 12)
+monthly_station_data <- vector("list", nrow(ms_bike_sites) * 12)
 idx <- 1
 
-for (i in seq_len(nrow(bike_sites_muenster))) {
+for (i in seq_len(nrow(ms_bike_sites))) {
   for (m in 1:12) {
     monthly_station_data[[idx]] <- download_station_month(
-      station_id = bike_sites_muenster$station_id[i],
-      station_name = bike_sites_muenster$station_name[i],
+      station_id = ms_bike_sites$station_id[i],
+      station_name = ms_bike_sites$station_name[i],
       year = year_to_download,
       month = m
     )
@@ -59,23 +59,23 @@ for (i in seq_len(nrow(bike_sites_muenster))) {
   }
 }
 
-bike_counts_hourly_muenster_2025 <- do.call(rbind, monthly_station_data)
+ms_bike_hourly_2025 <- do.call(rbind, monthly_station_data)
 
-bike_counts_hourly_muenster_2025_citywide <- aggregate(
-  bike_counts_hourly_muenster_2025$bikes_total,
-  by = list(datetime_hour = bike_counts_hourly_muenster_2025$datetime_hour),
+ms_bike_hourly_2025_city <- aggregate(
+  ms_bike_hourly_2025$bikes_total,
+  by = list(datetime_hour = ms_bike_hourly_2025$datetime_hour),
   FUN = sum,
   na.rm = TRUE
 )
 
-bike_counts_hourly_muenster_2025_citywide <- tibble(
-  datetime_hour = bike_counts_hourly_muenster_2025_citywide$datetime_hour,
-  bikes_total = as.integer(bike_counts_hourly_muenster_2025_citywide$x)
+ms_bike_hourly_2025_city <- tibble(
+  datetime_hour = ms_bike_hourly_2025_city$datetime_hour,
+  bikes_total = as.integer(ms_bike_hourly_2025_city$x)
 )
 
 usethis::use_data(
-  bike_sites_muenster,
-  bike_counts_hourly_muenster_2025,
-  bike_counts_hourly_muenster_2025_citywide,
+  ms_bike_sites,
+  ms_bike_hourly_2025,
+  ms_bike_hourly_2025_city,
   overwrite = TRUE
 )

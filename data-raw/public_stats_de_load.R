@@ -1,6 +1,6 @@
 library(tibble)
 
-build_nrw_population_districts <- function() {
+build_nrw_population <- function() {
   url <- paste0(
     "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/",
     "demo_r_pjanaggr3?geoLevel=nuts3&sex=T&age=TOTAL&unit=NR&sinceTimePeriod=2020"
@@ -30,7 +30,7 @@ build_nrw_population_districts <- function() {
 
   district_name <- unname(unlist(geo_label[geo_codes[nrw$geo_pos + 1]]))
 
-  nrw_population_districts <- tibble(
+  nrw_population <- tibble(
     year = as.integer(years[nrw$time_pos + 1]),
     nuts3_code = geo_codes[nrw$geo_pos + 1],
     district_name = district_name,
@@ -38,12 +38,12 @@ build_nrw_population_districts <- function() {
     population = as.integer(round(nrw$value))
   )
 
-  nrw_population_districts <- nrw_population_districts[order(nrw_population_districts$year, nrw_population_districts$district_name), ]
-  rownames(nrw_population_districts) <- NULL
-  nrw_population_districts
+  nrw_population <- nrw_population[order(nrw_population$year, nrw_population$district_name), ]
+  rownames(nrw_population) <- NULL
+  nrw_population
 }
 
-build_de_election_states <- function() {
+build_de_elections <- function() {
   url <- "https://www.bundeswahlleiterin.de/dam/jcr/860495c9-83fb-4068-8a99-c1c985ffffd2/w-btw21_kerg2.csv"
   raw <- read.csv2(url, skip = 9, stringsAsFactors = FALSE, check.names = FALSE)
 
@@ -54,7 +54,7 @@ build_de_election_states <- function() {
       raw$Stimme == 2,
   ]
 
-  de_election_states <- tibble(
+  de_elections <- tibble(
     election_year = as.integer(format(as.Date(sel$Wahltag, format = "%d.%m.%Y"), "%Y")),
     state_code = sprintf("%02d", as.integer(sel$Gebietsnummer)),
     state = sel$Gebietsname,
@@ -63,12 +63,12 @@ build_de_election_states <- function() {
     vote_share = as.numeric(sel$Prozent)
   )
 
-  de_election_states <- de_election_states[order(de_election_states$state_code, de_election_states$party), ]
-  rownames(de_election_states) <- NULL
-  de_election_states
+  de_elections <- de_elections[order(de_elections$state_code, de_elections$party), ]
+  rownames(de_elections) <- NULL
+  de_elections
 }
 
-build_de_energy_prices_monthly <- function() {
+build_de_energy_prices <- function() {
   series_map <- c(
     CP045 = "household_energy_total",
     CP0451 = "electricity",
@@ -104,19 +104,19 @@ build_de_energy_prices_monthly <- function() {
     fetch_one(names(series_map)[i], unname(series_map[i]))
   })
 
-  de_energy_prices_monthly <- do.call(rbind, out)
-  de_energy_prices_monthly <- de_energy_prices_monthly[order(de_energy_prices_monthly$date, de_energy_prices_monthly$series), ]
-  rownames(de_energy_prices_monthly) <- NULL
-  de_energy_prices_monthly
+  de_energy_prices <- do.call(rbind, out)
+  de_energy_prices <- de_energy_prices[order(de_energy_prices$date, de_energy_prices$series), ]
+  rownames(de_energy_prices) <- NULL
+  de_energy_prices
 }
 
-nrw_population_districts <- build_nrw_population_districts()
-de_election_states <- build_de_election_states()
-de_energy_prices_monthly <- build_de_energy_prices_monthly()
+nrw_population <- build_nrw_population()
+de_elections <- build_de_elections()
+de_energy_prices <- build_de_energy_prices()
 
 usethis::use_data(
-  nrw_population_districts,
-  de_election_states,
-  de_energy_prices_monthly,
+  nrw_population,
+  de_elections,
+  de_energy_prices,
   overwrite = TRUE
 )
