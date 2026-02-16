@@ -22,4 +22,4 @@ Depends:
 Imports: 
     tibble
 Suggests:
-    packagedown
+    pkgdown
