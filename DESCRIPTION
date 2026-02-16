@@ -21,3 +21,5 @@ Depends:
     R (>= 3.5)
 Imports: 
     tibble
+Suggests:
+    packagedown
