@@ -15,7 +15,6 @@ Description: Provides sample data sets that are used in statistics and data scie
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
-LazyDataCompression: xz
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Depends: 
