@@ -40,6 +40,7 @@ subset(
 - Core teaching data
   - `cinema_visitors`
   - `bvb_rankings`
+  - `berlin_marathon`
   - `website_dwell`
   - `checkout_times`
   - `research_ads`
@@ -77,4 +78,6 @@ data(package = "MSBStatsData")
   provided.
 - Data sources are documented in the respective dataset help pages
   (`?dataset_name`).
+- Third-party source and license notices for bundled external data are
+  included in `inst/THIRD_PARTY_LICENSES`.
 - GitHub releases may be ahead of the current CRAN version.

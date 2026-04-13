@@ -2,6 +2,8 @@
 
 ## All functions
 
+- [`berlin_marathon`](https://mchlbckr.github.io/MSBStatsData/reference/berlin_marathon.md)
+  : Berlin Marathon results from 1999 to 2019
 - [`beverage_revenues`](https://mchlbckr.github.io/MSBStatsData/reference/beverage_revenues.md)
   : Beverage revenues
 - [`bvb_rankings`](https://mchlbckr.github.io/MSBStatsData/reference/bvb_rankings.md)

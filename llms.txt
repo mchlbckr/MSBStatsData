@@ -40,6 +40,7 @@ subset(
 - Core teaching data
   - `cinema_visitors`
   - `bvb_rankings`
+  - `berlin_marathon`
   - `website_dwell`
   - `checkout_times`
   - `research_ads`
@@ -77,12 +78,16 @@ data(package = "MSBStatsData")
   provided.
 - Data sources are documented in the respective dataset help pages
   (`?dataset_name`).
+- Third-party source and license notices for bundled external data are
+  included in `inst/THIRD_PARTY_LICENSES`.
 - GitHub releases may be ahead of the current CRAN version.
 
 # Package index
 
 ## All functions
 
+- [`berlin_marathon`](https://mchlbckr.github.io/MSBStatsData/reference/berlin_marathon.md)
+  : Berlin Marathon results from 1999 to 2019
 - [`beverage_revenues`](https://mchlbckr.github.io/MSBStatsData/reference/beverage_revenues.md)
   : Beverage revenues
 - [`bvb_rankings`](https://mchlbckr.github.io/MSBStatsData/reference/bvb_rankings.md)
